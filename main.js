@@ -20,9 +20,8 @@ function arrayFunc(arr) {
     }
     return result;
   }
+console.log(arrayFunc(arrayNum))
 
- const outputArr = arrayFunc(arrayNum);
-   console.log(outputArr); 
 
 
 const form = document.querySelector('#form');
